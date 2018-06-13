@@ -1,2 +1,0 @@
-# TechEX
-for school
